@@ -1,0 +1,38 @@
+baseURL: 'http://plord.co.uk/'
+languageCode: 'en-us'
+title: 'Peter Lord'
+theme: 'ananke'
+pluralizeListTitles: false
+Paginate: 5
+
+params:
+  read_more_copy: Read more about this entry
+  date_format: "2. January 2006"
+  recent_posts_number: 3
+  background_color_class: "bg-black"
+  ananke_socials:
+  - name: email
+    url: mailto:peter@plord.co.uk
+    color: black
+  - name: signal
+    url: https://signal.me/#p/+447867970260
+    color: black
+  - name: telegram
+    url: https://telegram.me/PeterLord
+    color: black
+  - name: github
+    url: https://github.com/plord12
+  #- name: apple
+  #  url: imessage://peter@plord.co.uk
+
+menu:
+  main:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Links
+    pageRef: /links
+    weight: 10
+  - name: Talks
+    pageRef: /talks
+    weight: 10
