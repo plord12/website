@@ -9,7 +9,7 @@ params:
   read_more_copy: Read more about this entry
   date_format: "2. January 2006"
   recent_posts_number: 3
-  background_color_class: "bg-black"
+  background_color_class: "bg-blue"
   ananke_socials:
   - name: email
     url: mailto:peter@plord.co.uk
