@@ -22,6 +22,10 @@ params:
     color: black
   - name: github
     url: https://github.com/plord12
+  - name: discord
+    url: https://discordapp.com/users/plord#7168
+  - name: rss
+    url: https://plord.co.uk/index.xml
   #- name: apple
   #  url: imessage://peter@plord.co.uk
 
