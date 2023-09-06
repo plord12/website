@@ -4,6 +4,8 @@ title = "Air quality"
 
 Local air quality from a [SEN55](https://sensirion.com/media/documents/6791EFA0/62A1F68F/Sensirion_Datasheet_Environmental_Node_SEN5x.pdf) sensor in our back garden.
 
+For all plots see [/airquality](/airquality).
+
 <!--more-->
 
 # PM 1.0 today
