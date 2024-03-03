@@ -14,4 +14,7 @@ Links related to festivals and volunteering.
 * [How the light gets in](https://howthelightgetsin.org/festivals/hay)
 * [Secret garden party](https://www.secretgardenparty.com/)
 * [Shambala](https://www.shambalafestival.org/)
+* [Boomtown](https://www.boomtownfair.co.uk/)
+* [Wokingham](https://www.wokinghamfestival.co.uk/)
+* [U3A](https://www.u3a.org.uk/events/festival-2024)
 * [My Cause](https://mycauseuk.com/volunteer/)
